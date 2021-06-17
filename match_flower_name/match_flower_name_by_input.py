@@ -24,4 +24,3 @@ while firstAndLastName != '':
         firstAndLastName = input('Enter your First [space] Last name only:')
 
 # print the desired output
-
